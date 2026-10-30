@@ -1,0 +1,17 @@
+{
+  "name": "L’EMPREINTE — Ce que la création et les prophéties révèlent de Jéhovah",
+  "short_name": "L’EMPREINTE",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070A12",
+  "theme_color": "#070A12",
+  "icons": [
+    {
+      "src": "assets/img/og.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
